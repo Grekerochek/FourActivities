@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Four Activities</string>
+    <string name="splash">SplashActivity</string>
+    <string name="main">MainActivity</string>
+    <string name="details">DetailsActivity</string>
+    <string name="info">InfoActivity</string>
+    <string name="next">Следующая!</string>
+    <string name="previous">Предыдущая!</string>
+    <string name="first">Первая!</string>
+</resources>
