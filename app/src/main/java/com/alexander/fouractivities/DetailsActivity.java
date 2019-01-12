@@ -43,7 +43,6 @@ public class DetailsActivity extends AppCompatActivity {
     }
 
     public static final Intent newIntent(Context context){
-
         Intent intent = new Intent(context, DetailsActivity.class);
         return intent;
 

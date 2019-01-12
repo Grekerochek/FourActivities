@@ -37,7 +37,6 @@ public class InfoActivity extends AppCompatActivity {
     }
 
     public static final Intent newIntent(Context context){
-
         Intent intent = new Intent(context, InfoActivity.class);
         return intent;
 
